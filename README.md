@@ -8,7 +8,7 @@ CS : GO KZ Server plugin collection.
 - `mmsource` 1.10
 - `MovementAPI` 2.10
 - `dhooks` 2.2.1
-- `goke` latest
+- `gokz` latest
 
 ## Server Requirements
 
@@ -17,7 +17,7 @@ CS : GO KZ Server plugin collection.
 ## Installation
 
 - **Manual** - Download and extract the repository to `csgo/` in your server directory.
-- **Script** ( Only your server directory is in `/home/csgo/` ) - `sh -c "$(curl -fsSL https://github.com/AkiJoey/GokzServer/raw/master/install.sh)"`
+- **Script** (Only your server directory is in `/home/csgo/`) - `sh -c "$(curl -fsSL https://github.com/AkiJoey/GokzServer/raw/master/install.sh)"`
 
 ## Features
 
