@@ -1,6 +1,6 @@
 # GokzServer
 
-CS : GO KZ Server plugin collection.
+CS:GO KZ Server plugin collection.
 
 ## Plugin Version
 
@@ -12,7 +12,7 @@ CS : GO KZ Server plugin collection.
 
 ## Server Requirements
 
-- 128 Tick ( `-tickrate 128` )
+- 128 Tick (`-tickrate 128`)
 
 ## Installation
 
