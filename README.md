@@ -17,7 +17,7 @@ CS:GO KZ Server plugin collection.
 ## Installation
 
 - **Manual** - Download and extract the repository to `csgo/` in your server directory.
-- **Script** (Only your server directory is in `/home/csgo/`) - `sh -c "$(curl -fsSL https://github.com/AkiJoey/GokzServer/raw/master/install.sh)"`
+- **Script** (Only your server directory is in `/home/csgo/`)<br>- `sh -c "$(curl -fsSL https://github.com/AkiJoey/GokzServer/raw/master/install.sh)"`
 
 ## Features
 
